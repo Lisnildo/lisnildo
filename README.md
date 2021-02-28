@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="PC">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisnildo&layout=compact&langs_count=10&hide=lua&theme=yeblu)](https://github.com/lisnildo/github-readme-stats)
-
 <p align="left"> 
   Olá meu nome é <strong>Lisnildo</strong>, sou desenvolvedor <strong>Front-End Jr</strong>. Estou disponível para freelas/trabalhos, caso precise contratar meu serviço entre em contato.
 </p>
