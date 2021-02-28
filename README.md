@@ -22,6 +22,3 @@
   <a href="https://www.linkedin.com/in/lisnildo" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lisnildo" /></a>
 </p>  
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=lisnildo&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisnildo&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/lisnildo/github-readme-stats)
