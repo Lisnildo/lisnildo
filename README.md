@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="PC">
+<img src="https://camo.githubusercontent.com/d36ea8a39e4f6ba5ffe30669fd043e042d1063e4738107fc34174b0897563242/68747470733a2f2f7374617469632e636f6c6c65637475692e636f6d2f73686f74732f333235323338352f6a6f622d6f70656e696e672d6c61726765" min-width="400px" max-width="400px" width="400px" align="right" alt="PC">
 
 <p align="left"> 
   Olá meu nome é <strong>Lisnildo</strong>, sou desenvolvedor <strong>Front-End Jr</strong>. Estou disponível para freelas/trabalhos, caso precise contratar meu serviço entre em contato.
